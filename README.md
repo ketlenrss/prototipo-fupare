@@ -6,7 +6,7 @@ O aplicativo **Fupare** foi desenvolvido para oferecer suporte personalizado, ac
 
 O protótipo conta com 7 telas principais, representando as principais funcionalidades do app, disponíveis no arquivo abaixo:
 
-📄 [Clique aqui para visualizar o protótipo completo (PDF)](prototipo/prototipo-fupare(1).pdf)
+📄 [Clique aqui para visualizar o protótipo completo (PDF)](https://github.com/ketlenrss/prototipo-fupare/blob/main/prototipo/prototipo-fupare%20(1).pdf)
 
 ### Telas incluídas:
 1. **Tela de Login e Cadastro**
