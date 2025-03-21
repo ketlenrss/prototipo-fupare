@@ -22,7 +22,5 @@ Equipe: Felipe Melo, Ketlen Santos, Lara Paiva, Lucas Moreira, Maria Silvestre, 
 
 ---
 
-Assim, quem acessar já consegue baixar ou abrir o PDF direto!
 
----
 
