@@ -18,6 +18,10 @@ O protótipo conta com 7 telas principais, representando as principais funcional
 
 ---
 
+Equipe: Felipe Melo, Ketlen Santos, Lara Paiva, Lucas Moreira, Maria Silvestre, Mirella Lima, Paloma Lima
+
+---
+
 Assim, quem acessar já consegue baixar ou abrir o PDF direto!
 
 ---
