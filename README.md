@@ -18,7 +18,7 @@ O protótipo conta com 7 telas principais, representando as principais funcional
 
 ---
 
-Equipe: Felipe Melo, Ketlen Santos, Lara Paiva, Lucas Moreira, Maria Silvestre, Mirella Lima, Paloma Lima
+Equipe: Felipe Melo, Ketlen Santos, Lara Paiva, Lucas Moreira, Maria Silvestre, Mirella Lima e Paloma Lima
 
 ---
 
