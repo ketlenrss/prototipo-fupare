@@ -6,7 +6,7 @@ Este documento apresenta o backlog da **parte 2** do projeto Fupare, listando as
 
 | Funcionalidade                        | Descrição | Tempo Estimado | Complexidade |
 |--------------------------------------|-----------|----------------|--------------|
-| **Logomarca** | Criar e definir a identidade visual do site. | 2 dias | Baixa |
+| **Logomarca** | Criar e definir a identidade visual do app. | 2 dias | Baixa |
 | **Página de Login** | Desenvolvimento da página de login com formulário de e-mail e senha. | 2 dias | Média |
 | **Recuperação de Senha** | Criar fluxo para recuperação de senha via e-mail ou SMS. | 3 dias | Média |
 | **Criação de Conta** | Desenvolvimento da página de criação de conta com dados pessoais. | 3 dias | Média |
