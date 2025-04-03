@@ -18,6 +18,13 @@ O protótipo conta com 7 telas principais, representando as principais funcional
 
 ---
 
+### Backlog
+
+📌 [Clique aqui para visualizar o backlog da Parte 2](backlog.md)
+
+
+---
+
 Equipe: Felipe Melo, Ketlen Santos, Lara Paiva, Lucas Moreira, Maria Silvestre, Mirella Lima e Paloma Lima
 
 ---
