@@ -20,8 +20,8 @@ O protótipo conta com 7 telas principais, representando as principais funcional
 
 ### Backlog
 
-📌 [Clique aqui para visualizar o backlog da Parte 2](backlog.md)
-
+📌 [Clique aqui para visualizar o backlog da Parte 2](backlog.md)  
+📌 [Acompanhe o backlog no Trello](https://trello.com/invite/b/67ede5c34f0ca1c024522bfc/ATTIc1a547f440a3c026086cfac3c25d9ded1DA4F184/metodos-ageis)
 
 ---
 
