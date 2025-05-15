@@ -1,6 +1,6 @@
 # Pontos de Função
 
-Este documento apresenta o backlog da **parte 2** do projeto Fupare, listando as funcionalidades planejadas, o tempo estimado de desenvolvimento, a complexidade de cada tarefa, os pontos de função, o ajuste aplicado e o custo estimado.
+Este documento apresenta o ponto de função do projeto Fupare.
 
 
 | Funcionalidade                        | Descrição | Tempo Estimado | Complexidade | PF | PF Ajustado | Custo (R$) |
